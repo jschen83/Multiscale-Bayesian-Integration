@@ -1,0 +1,16 @@
+Variogram models and their parameters
+1              !Variogram type (1-Exponential)
+   41.800000    41.800000  !Correlation length: Lx and Ly
+    0.018400         !Variance
+    0.001000         !Nugget
+    0.054348         !Relative Nugget
+1              !Variogram type (1-Exponential)
+  122.150000   122.150000  !Correlation length: Lx and Ly
+    0.026100         !Variance
+    0.008700         !Nugget
+    0.333333         !Relative Nugget
+1              !Variogram type (1-Exponential)
+  201.000000   201.000000  !Correlation length: Lx and Ly
+    0.011600         !Variance
+    0.005100         !Nugget
+    0.439655         !Relative Nugget

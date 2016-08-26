@@ -1,0 +1,12 @@
+Main Runfile for Multiscale Bayesian Integration
+1  !Debuging levels (1-output debuging information)
+Input !Input directory
+model_setting.par                      !Grid information
+geostat_model.par                      !Variogram models
+smoothing_weight.par                   !Smoothing weights
+landuse_id.dat                         !Landuse ID
+walking_survey.dat                     !Walking survey data
+car_survey.dat                         !Car survey data
+airborne_survey.dat                    !Airborne survey data
+Output                                 !output directory
+mytest_run1                            !root output file name

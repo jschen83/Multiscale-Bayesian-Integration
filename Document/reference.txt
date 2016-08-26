@@ -1,0 +1,3 @@
+Reference:
+
+Wainwright, H. M., A. Seki and K. Saito (in submission), A multiscale Bayesian data integration approach for mapping radionuclide contamination in the regional scale, Journal of Environmental Radioactivity.

@@ -1,0 +1,7 @@
+General model setting
+100     ! nx (# of grids along x-direction)
+100     ! ny (# of grids along y-direction)
+546     ! nsmooth (check smoothing data file to find it)
+50      ! incremant in meters along the x direction
+50      ! increment in meters along the y direction
+-0.5040 ! overall mean value (dose)
